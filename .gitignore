@@ -1,0 +1,18 @@
+# Claude Code local settings
+.claude/settings.local.json
+
+# Progress files (machine-local, not shared)
+.claude/docs/progress/reports/
+.claude/docs/progress/current-sprint.md
+
+# Agent memory (machine-local, learned patterns)
+.claude/agent-memory/
+.claude/agent-memory-local/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
